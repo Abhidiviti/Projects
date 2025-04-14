@@ -30,8 +30,8 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5em;
-    gap: 2em;
+    margin-top: 5%;
+    gap: 2%;
    }
 .choice:hover{
     /* opacity: 0.5; */
@@ -43,7 +43,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    gap: 2%;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
