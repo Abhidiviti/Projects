@@ -27,7 +27,7 @@ img{
     object-fit: cover;
 }
 .choices{
-    
+    diplay:inline;
     
     margin-top: 5%;
     gap: 2%;
