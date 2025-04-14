@@ -27,8 +27,9 @@ img{
     object-fit: cover;
 }
 .choices{
-    diplay:inline-center;
-    
+    display: flex;
+    justify-content: center;
+    align-content: center;
     margin-top: 5%;
     gap: 2%;
    }
